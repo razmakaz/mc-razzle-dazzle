@@ -1,0 +1,1 @@
+Don't remove mods from here unless you know what you're doing. The Bundler uses this folder to compile your client or server modlist. 
